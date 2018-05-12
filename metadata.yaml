@@ -1,0 +1,32 @@
+_repo: Note-sur-l-invasion-des-Sarrasins-dans-le-Lyonnais_44242
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44242-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vingtrinier, Aimé
+    alias: Vingtrinier, Aime
+    birthdate: 1812
+    deathdate: 1903
+    gutenberg_agent_id: '42650'
+    url: http://www.gutenberg.org/2009/agents/42650
+    wikipedia: http://fr.wikipedia.org/wiki/Aim%C3%A9_Vingtrinier
+description: ''
+gutenberg_bookshelf:
+- FR Peuples et Sociétés
+- FR Histoire
+gutenberg_issued: '2013-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44242'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islamic Empire'
+- !lcsh 'Lyonnais (France) -- History -- To 1500'
+- !lcc 'DC'
+title: Note sur l'invasion des Sarrasins dans le Lyonnais
+url: http://www.gutenberg.org/ebooks/44242
