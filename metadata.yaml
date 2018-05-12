@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42650
     wikipedia: http://fr.wikipedia.org/wiki/Aim%C3%A9_Vingtrinier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44242#Note-sur-l-invasion-des-Sarrasins-dans-le-Lyonnais
 gutenberg_bookshelf:
 - FR Peuples et Sociétés
 - FR Histoire
